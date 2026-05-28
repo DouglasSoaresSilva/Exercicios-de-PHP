@@ -68,4 +68,4 @@ Para dúvidas ou sugestões sobre este projeto, entre em contato com o autor.
 
 ---
 
-**Última atualização:** 2026
+**Última atualização:** 28/05/2026
