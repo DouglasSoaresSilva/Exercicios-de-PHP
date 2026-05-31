@@ -62,6 +62,10 @@ Os exercícios cobrem conceitos fundamentais de desenvolvimento web, incluindo:
 
 Este projeto foi desenvolvido como parte da avaliação do 2º bimestre de 2026 na matéria de Programação Web II.
 
+## 📼Projeto funcionando:
+
+https://github.com/user-attachments/assets/49581a36-81dd-4534-911b-08358af4f937
+
 ## 📧 Contato
 
 Para dúvidas ou sugestões sobre este projeto, entre em contato com o autor.
